@@ -1,6 +1,6 @@
 # iOS-StaticLibrary-KochavaLocation
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/kochava/iOS-StaticLibrary-KochavaUI?include_prereleases)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/kochava/iOS-StaticLibrary-KochavaLocation?include_prereleases)
 
 <img src="https://storage.googleapis.com/kochava-web/2016/07/Kochava-horizontal-black-800x154.png" width="260" />
 
